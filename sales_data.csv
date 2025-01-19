@@ -1,0 +1,21 @@
+Date,Product,Quantity,Sales
+01/01/25,Product C,8,28
+01/01/25,Product C,,
+01/01/25,Product C,2,85
+02/01/25,Product A,6,63
+02/01/25,Product C,9,
+02/01/25,Product B,,
+02/01/25,Product C,9,91
+03/01/25,Product B,4,16
+03/01/25,Product C,3,91
+03/01/25,Product A,5,89
+03/01/25,Product A,2,50
+03/01/25,Product B,1,30
+03/01/25,Product A,10,36
+04/01/25,Product C,,
+04/01/25,Product C,4,82
+04/01/25,Product B,4,96
+04/01/25,Product A,9,27
+04/01/25,Product B,5,70
+04/01/25,Product A,10,90
+04/01/25,Product C,7,46
